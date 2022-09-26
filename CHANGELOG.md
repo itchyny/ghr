@@ -1,5 +1,8 @@
 # Changelog
 
+## [v0.16.1](https://github.com/tcnksm/ghr/compare/v0.16.0...v0.16.1) - 2022-09-26
+- drop pkg/errors dependency by @Songmu in https://github.com/tcnksm/ghr/pull/148
+
 ## [v0.16.0](https://github.com/tcnksm/ghr/compare/v0.15.0...v0.16.0) - 2022-09-26
 - introduce modern releng stack by @Songmu in https://github.com/tcnksm/ghr/pull/141
 - Go 1.19 and update deps by @Songmu in https://github.com/tcnksm/ghr/pull/143
